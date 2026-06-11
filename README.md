@@ -33,7 +33,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## ?? Run the app
+## Run the app
 
 ```bash
 streamlit run app.py
@@ -51,4 +51,4 @@ Then open the local Streamlit link shown in your terminal.
 - `test_db.py`, `test_emissions.py`, `test_recommendations.py` — Unit tests
 
 
-Enjoy your eco journey!
+### Enjoy your eco journey!
