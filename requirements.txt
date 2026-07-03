@@ -1,4 +1,6 @@
-streamlit==1.30.0
+streamlit>=1.46
 pandas
 matplotlib
 altair==4.2.2
+plotly
+reportlab

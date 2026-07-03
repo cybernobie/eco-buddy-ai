@@ -476,7 +476,7 @@ st.markdown("""
     /* BUTTON STYLING */
     .stButton > button {
         background: linear-gradient(135deg, #22c55e, #4ade80) !important;
-        color: #0a2818 !important;
+        color: #000000 !important;
         font-weight: 800 !important;
         font-size: 16px !important;
         padding: 14px 32px !important;
